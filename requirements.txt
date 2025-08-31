@@ -1,0 +1,6 @@
+google-ml-edu
+plotly
+tensorflow[and-cuda]
+matplotlib
+pandas
+numpy
